@@ -1,2 +1,2 @@
 # Oakhacks-gerald
-Gerald hackathon app
+Gerald hackathon app made with ArtemRakov and Kuhlaire
